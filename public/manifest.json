@@ -1,0 +1,8 @@
+{
+  "short_name": "Stripe UI",
+  "name": "Stripe User Interface",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#645cff",
+  "background_color": "#ffffff"
+}
